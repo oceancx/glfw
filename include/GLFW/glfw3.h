@@ -209,7 +209,7 @@ extern "C" {
 
   #include <GL/gl.h>
   #if defined(GLFW_INCLUDE_GLEXT)
-   #include <GL/glext.h>
+//    #include <GL/glext.h>
   #endif
   #if defined(GLFW_INCLUDE_GLU)
    #include <GL/glu.h>
